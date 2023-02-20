@@ -1,9 +1,9 @@
 site_name: Quentin Roy-Foster
 theme:
-  name: mkdocs
+  name: material
   language: en
   icon:
-    logo: material/alpha-q
+    logo: fontawesome/solid/q
   palette:
     - scheme: default
       toggle:
