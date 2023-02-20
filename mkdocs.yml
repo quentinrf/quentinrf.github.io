@@ -9,13 +9,15 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: white
+      primary: teal
+      secondary: white
       accent: pink
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
       primary: blue grey
+      secondary: blue grey
       accent: pink
   font:
     text: "Slabo 13px"
