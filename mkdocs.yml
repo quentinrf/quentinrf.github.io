@@ -1,4 +1,7 @@
 site_name: Quentin Roy-Foster
+hide:
+  - navigation
+  - toc
 theme:
   name: material
   language: en
