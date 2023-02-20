@@ -1,7 +1,7 @@
-site_name: Quentin Roy-Foster
 hide:
   - navigation
   - toc
+site_name: Quentin Roy-Foster
 theme:
   name: material
   language: en
@@ -29,10 +29,8 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
     - navigation.tracking
     - navigation.top
-    - navigation.expand
     - navigation.path
     - navigation.prune
     - navigation.indexes 
