@@ -1,0 +1,53 @@
+site_name: Quentin Roy-Foster
+theme:
+  name: mkdocs
+  language: en
+  icon:
+    logo: material/alpha-q
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: white
+      secondary: teal
+      accent: pink
+    - scheme:
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+        primary: blue grey
+        secondary: deep purple
+        accent: pink
+  font:
+    text: "Slabo 13px"
+    code: "Ubuntu Mono"
+  features: 
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.tracking
+    - navigation.top
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes 
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - reject
+      - manage
+copyright: >
+  Copyright &copy; 2023 Quentin Roy-Foster –
+  <a href="#__consent">Change cookie settings</a>
+    
+  
+
